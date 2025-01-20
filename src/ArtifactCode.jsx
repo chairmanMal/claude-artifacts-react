@@ -10,7 +10,8 @@ const COLORS = [
   '#D35400', '#8E44AD', '#2980B9', '#F1C40F', '#16A085'
 ];
 
-const DonationAnalysisApp = () => {
+{/* const DonationAnalysisApp = */}
+const App = () => {
   const data = {
     "Chris": {
       "Food Security": 30.0,
@@ -210,4 +211,6 @@ const DonationAnalysisApp = () => {
   );
 };
 
-export default DonationAnalysisApp;
+{/*export default DonationAnalysisApp; */}
+
+export default App;
